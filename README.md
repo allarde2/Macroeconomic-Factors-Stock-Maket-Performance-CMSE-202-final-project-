@@ -7,7 +7,7 @@
 
   <h3>Group Members & Contributions</h3>
   <ul>
-    <li><strong>Elizabeth Allard</strong> – Responsible for data cleaning and collection, running time-series code and write-up analysis,contributing to the final report.</li>
+    <li><strong>Elizabeth Allard</strong> – Responsible for data cleaning and collection, running time-series code and write-up analysis, contributing to the final report.</li>
     <li><strong>Sarah Bejleri</strong> – Responsible for LASSO code analysis, proofreading the final report, and compiling all Jupyter notebooks and the README file.</li>
     <li><strong>Shaurya Arora</strong> – Responsible for NASDAQ and Dow Jones LASSO write-up analysis, and contributing to the project background analysis.</li>
     <li><strong>Joseph Boberg</strong> – Responsible for S&P 500 write-up analysis, writing the conclusion section, and helping compile the README file.</li>
