@@ -24,7 +24,7 @@
 
   <h4>FOLDER 2: Data</h4>
   <p>
-    Contains <code>Initial Data Cleaning.ipynb</code>, six macroeconomic CSV files, and one merged dataset: <code>merged_data.csv</code>. Data collection was performed using the <code>yfinance</code> Python library (installable via <code>pip install yfinance</code>). The notebook includes both markdown documentation and five executable code cells, which when run sequentially will output the cleaned and merged dataset.
+    Contains <code>Initial Data Cleaning.ipynb</code>, six macroeconomic CSV files, and one merged dataset: <code>merged_data.csv</code>. Data collection was performed using the <code>yfinance</code> Python library (installable via <code>pip install yfinance</code>). The notebook includes both markdown documentation and five executable code cells, which, when run sequentially, will output the cleaned and merged dataset.
   </p>
   <p>
     <code>merged_data.csv</code> contains macroeconomic variables (CPI, Real Interest Rate, Unemployment Rate, GDP Growth, M2 Money Supply, Federal Funds Rate) and stock market variables (S&P 500, Dow Jones, NASDAQ), reported quarterly (January, April, July, October) from 1992–2023. This dataset is used in all modeling folders that follow.
@@ -37,7 +37,7 @@
 
   <h4>FOLDER 4: LASSO Regression</h4>
   <p>
-    Contains four notebooks: <code>Lasso Regression Background</code>, <code>S&P 500 Lasso</code>, <code>Dow Jones Lasso</code>, <code>NASDAQ Lasso</code>, and <code>merged_data.csv</code>. Begin with the background notebook, which provides a markdown explanation of LASSO and how it builds on multiple linear regression using regularization. In each index notebook, code and markdown are used to train models, interpret coefficients, and assess accuracy. Each notebook includes four key plots: Actual vs. Predicted, Coefficient Path, and RMSE comparison at different lambda levels.
+    Contains four notebooks: <code>Lasso Regression Background</code>, <code>S&P 500 Lasso</code>, <code>Dow Jones Lasso</code>, <code>NASDAQ Lasso</code>, and <code>merged_data.csv</code>. Begin with the background notebook, which provides a markdown explanation of LASSO regression and how it builds on multiple linear regression using regularization. In each index notebook, code and markdown are used to train models, interpret coefficients, and assess accuracy. Each notebook includes four key plots: Actual vs. Predicted, Coefficient Path, and RMSE comparison at different lambda levels.
   </p>
 
   <h4>FOLDER 5: Time-Series</h4>
@@ -47,7 +47,7 @@
 
   <h4>FOLDER 6: Conclusions</h4>
   <p>
-    Contains <code>Conclusions.ipynb</code>. This notebook includes only markdown content. We summarized and compared all three models (Multiple Linear Regression, LASSO, Time-Series) across the S&P 500, Dow Jones, and NASDAQ indices. Tables are formatted for clarity and allow for direct comparison of R-squared, RMSE, and variable importance. No code to run — just interpretation and final insights.
+    Contains <code>Conclusions.ipynb</code>. This notebook includes only markdown content. We summarized and compared all three models (Multiple Linear Regression, LASSO, Time-Series) across the S&P 500, Dow Jones, and NASDAQ indices. Tables are formatted for clarity and allow for direct comparison of R-squared, RMSE, and variable importance. No code to run — just interpretation and final insights to answer the research question.
   </p>
 
   <h4>FOLDER 7: Project Planning</h4>
