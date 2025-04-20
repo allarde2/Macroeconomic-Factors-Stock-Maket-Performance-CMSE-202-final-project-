@@ -55,6 +55,11 @@
     Contains <code>Project Planning.ipynb</code>, which documents the original Gantt chart and team task assignments. Although a few assignments shifted during execution, the overall workflow remained consistent and organized.
   </p>
 
+  <h4>Final Report.pdf</h4>
+  <p>
+    This file serves as the Report for the repository and explains the research question, methods, discussion, and conclusions. 
+  </p>
+
   <h4>README.md</h4>
   <p>
     This file serves as the README for the repository and explains how to navigate the project folders, who contributed what, and how to run each notebook in order.
